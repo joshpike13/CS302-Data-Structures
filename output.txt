@@ -1,0 +1,65 @@
+Simulation #1
+CPU Time = 41.0312		Process Time = 281680
+Average Waiting Time = 25450.2	Max Waiting Time = 181618
+Average Line Length = 1313		Max Line Length = 3605
+Total Teller Idle Time = 0
+
+Simulation #2
+CPU Time = 78.6359		Process Time = 281831
+Average Waiting Time = 25425.2	Max Waiting Time = 181746
+Average Line Length = 1316		Max Line Length = 3607
+Total Teller Idle Time = 0
+
+Simulation #3
+CPU Time = 133.194		Process Time = 281831
+Average Waiting Time = 25425.2	Max Waiting Time = 181746
+Average Line Length = 1316		Max Line Length = 3607
+Total Teller Idle Time = 0
+
+Simulation #4
+CPU Time = 165.441		Process Time = 281831
+Average Waiting Time = 25425.2	Max Waiting Time = 181746
+Average Line Length = 1316		Max Line Length = 3607
+Total Teller Idle Time = 0
+
+Simulation #5
+CPU Time = 184.14		Process Time = 281831
+Average Waiting Time = 25425.2	Max Waiting Time = 181746
+Average Line Length = 1316		Max Line Length = 3607
+Total Teller Idle Time = 0
+
+Simulation #6
+CPU Time = 185.685		Process Time = 281831
+Average Waiting Time = 25425.2	Max Waiting Time = 181746
+Average Line Length = 1316		Max Line Length = 3607
+Total Teller Idle Time = 0
+
+Simulation #7
+CPU Time = 172.46		Process Time = 281831
+Average Waiting Time = 25425.2	Max Waiting Time = 181746
+Average Line Length = 1316		Max Line Length = 3607
+Total Teller Idle Time = 0
+
+Simulation #8
+CPU Time = 150.583		Process Time = 281428
+Average Waiting Time = 25378.6	Max Waiting Time = 181350
+Average Line Length = 1315		Max Line Length = 3606
+Total Teller Idle Time = 0
+
+Simulation #9
+CPU Time = 165.321		Process Time = 281428
+Average Waiting Time = 25378.6	Max Waiting Time = 181350
+Average Line Length = 1315		Max Line Length = 3606
+Total Teller Idle Time = 0
+
+Simulation #10
+CPU Time = 173.264		Process Time = 281428
+Average Waiting Time = 25378.6	Max Waiting Time = 181350
+Average Line Length = 1315		Max Line Length = 3606
+Total Teller Idle Time = 0
+
+Averages of all 10 Simulations:
+Average CPU Time = 144.975		Average Process Time = 281695
+Average Waiting Time = 25413.7	Max Waiting Time = 181614
+Average Line Length = 1315		Max Line Length = 3606
+Average Total Teller Idle Time = 0
